@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook implementing an N-Gram Language Mode
 
 ## Contents
 
-- **ngram_text_gen.ipynb:** Jupyter Notebook containing code and explanations.
+- **text_gen.ipynb:** Jupyter Notebook containing code and explanations.
 
 - **README.md:** This file, providing an overview of the project.
 
